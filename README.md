@@ -11,7 +11,10 @@ Sample notebooks are provided for:
     - [Anthropic](function_calling/Anthropic_function_calling.ipynb)
     - [Google Gemini](function_calling/Google_Gemini_function_calling.ipynb)
     - [OpenAI](function_calling/OpenAI_function_calling.ipynb)
-
+- function calling via LangChain with
+    - [Anthropic](langchain_function_calling/langchain_function_calling_Anthropic.ipynb)
+    - [Google Gemini](langchain_function_calling/langchain_function_calling_Google_Gemini.ipynb)
+    - [OpenAI](langchain_function_calling/langchain_function_calling_OpenAI.ipynb)
 This repository is actively maintained and example code is up-to-date.
 
 # API Access
